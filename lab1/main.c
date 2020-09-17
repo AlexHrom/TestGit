@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main() {
-
+int main() 
+{
     for (int i = 0; i < 100; i++)
     {
         // out to console
